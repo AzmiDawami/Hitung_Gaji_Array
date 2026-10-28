@@ -1,6 +1,6 @@
 # PenghasilanKaryawan
 
-Program Java berbasis konsol untuk menghitung penghasilan karyawan berdasarkan golongan (A/B/C) dan jam lembur.
+Program Java untuk menghitung penghasilan karyawan berdasarkan golongan dan jam lembur.
 
 ---
 
